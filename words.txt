@@ -1,0 +1,6 @@
+apple
+ball
+car
+dog
+elephant
+fuzzy monkey
